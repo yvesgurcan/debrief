@@ -1,16 +1,16 @@
-# Stream of October 11, 2019
+## Stream of October 11, 2019
 
-## Bad stuff
+### Bad stuff
 
 - Audio quality.
 - Pronunciation/Enunciation.
 
-## Good stuff
+### Good stuff
 
 - Pace.
 - Informative.
 
-## New stuff
+### New stuff
 
 - Added song title to the scenes.
 - More songs in the playlist.
