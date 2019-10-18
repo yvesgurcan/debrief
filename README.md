@@ -3,4 +3,4 @@
 |-|-|-|
 |Audio quality.|Pace.|Added song title to the scenes.|
 |Pronunciation/Enunciation.|Informative.|More songs in the playlist.|
-|||More ways to connect!|
+||More ways to connect!|
