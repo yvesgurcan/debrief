@@ -5,8 +5,8 @@
 |----------------------|-----------------------------|
 | Create a nav menu.   | Writing specifications.     |
 | Static GraphQL API.  | Setting up Webpack.         |
-| Plugins.             | Simple user interactions.   |
-| React Helmet (font). |                             |
+| React Helmet (font). | Simple user interactions.   |
+| Theming.             |                             |
 |----------------------|-----------------------------|
 
 ### What's new?
