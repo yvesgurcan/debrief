@@ -15,6 +15,17 @@
 - Small layout improvements.
 - Next week: Web worker workshop.
 
+
+
+
+
+
+
+
+
+
+
+
 ## Stream of October 12, 2019
 
 |----------------------------|--------------|---------------------------------|
