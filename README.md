@@ -1,10 +1,19 @@
 ## Stream of October 25, 2019
 
-|-----------|-----------|
-| Last Week | This Week |
-|-----------|-----------|
-| | |
-|-----------|-----------|
+|----------------------|-----------------------------|
+| Last Week: Gatsby    | This Week: Simple React App |
+|----------------------|-----------------------------|
+| Create a nav menu.   | Writing specifications.     |
+| Static GraphQL API.  | Setting up Webpack.         |
+| Plugins.             | Simple user interactions.   |
+| React Helmet (font). |                             |
+|----------------------|-----------------------------|
+
+### What's new?
+
+- Song requests!
+- Small layout improvements.
+- Next week: Web worker workshop.
 
 ## Stream of October 12, 2019
 
