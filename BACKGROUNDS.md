@@ -1,2 +1,3 @@
 - Gravity Maze: https://codepen.io/borntofrappe/pen/mddEvEW
 - Block Blaster: https://codepen.io/mattyfours/pen/QWWLpmK
+- Walking Character (pure CSS): https://codepen.io/ivorjetski/pen/xxKBWBN
