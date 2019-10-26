@@ -1,3 +1,22 @@
+## Stream of November 1, 2019
+
+|-----------------------------|------------------------|
+| Last Week: Simple React App | This Week: Web Workers |
+|-----------------------------|------------------------|
+| Writing specifications.     | Use cases.             |
+| Setting up Webpack.         | Step by step.          |
+| Simple user interactions.   | Do it yourself.        |
+|                             | Ask questions!         |
+|-----------------------------|------------------------|
+
+### What's new?
+
+- Chat integration.
+- Microphone.
+- Next week: More Gatsby.
+
+<div id="spacer-2019-11-01"></div>
+
 ## Stream of October 25, 2019
 
 |----------------------|-----------------------------|
