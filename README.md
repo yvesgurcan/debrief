@@ -1,3 +1,15 @@
+## Stream of November 8, 2019
+
+|--------------------------------|-----------------------------|
+| Last Week: Web Worker Workshop | This Week: Gatsby continued |
+|--------------------------------|-----------------------------|
+| Great participation.           | Home page.                  |
+| Good format.                   | HTML to React components    |
+| Setting up the stream.         | CSS to Styled Components.   |
+|--------------------------------|-----------------------------|
+
+<div id="spacer-2019-11-08"></div>
+
 ## Stream of November 1, 2019
 
 |-----------------------------|------------------------|
