@@ -14,7 +14,7 @@
 - Bubble Sort: https://codepen.io/Alca/pen/mgaKYK
 - Bubble Sort 2: https://codepen.io/devamar/pen/ZZmQBm
 - Maze Drawing Algorithm: https://codepen.io/EightArmsHQ/pen/nqgFG
-- Shamrocks: https://codepen.io/createjs/pen/XGJEEx
+- Shamrocks: https://codepen.io/createjs/pen/XGJEEx | http://shamrocks.yvesgurcan.com/?SS
 
 # Used
 
