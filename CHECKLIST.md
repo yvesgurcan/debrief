@@ -11,6 +11,7 @@
 - [x] Update displayed URL of the background.
 - [x] Update title of waiting scene with new topic.
 - [x] Update title of the stream on Twitch.
+- [x] Add new songs to Nihbot playlist.
 
 ## Same day
 - [ ] Charge headphones.
