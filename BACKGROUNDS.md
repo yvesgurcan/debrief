@@ -6,7 +6,6 @@
 - Anime Earth: https://codepen.io/CodeMeNatalie/pen/gOYQdVV | https://earth.yvesgurcan.com/
 - Pinball Sparkles: https://codepen.io/danzen/pen/dybQVoa | https://pinball.yvesgurcan.com
 - Koi Pond: https://codepen.io/unicar/pen/LwbRbo
-- Open Store Animation: https://codepen.io/marianab/pen/XPOQaR
 - Roadtrip Sunset: https://codepen.io/a-trost/pen/pXzbbq
 - Circles: https://codepen.io/aragakey/pen/LowQdY
 - Groovy Spinner: https://codepen.io/PullJosh/pen/MdMpxV
