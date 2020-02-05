@@ -13,10 +13,10 @@
 - Planet Explorer: https://codepen.io/jh3y/pen/wbmNWE
 - Bubble Sort: https://codepen.io/Alca/pen/mgaKYK
 - Bubble Sort 2: https://codepen.io/devamar/pen/ZZmQBm
-- Maze Drawing Algorithm: https://codepen.io/EightArmsHQ/pen/nqgFG | https://maze.yvesgurcan.com
-- Shamrocks: https://codepen.io/createjs/pen/XGJEEx | http://shamrocks.yvesgurcan.com/?SS
+- Shamrocks: https://codepen.io/createjs/pen/XGJEEx | http://shamrocks.yvesgurcan.com
 
 # Used
 
+- Maze Drawing Algorithm: https://codepen.io/EightArmsHQ/pen/nqgFG | https://maze.yvesgurcan.com
 - Starfox: https://codepen.io/YusukeNakaya/pen/LvePgj
 - Strange Creatures: https://codepen.io/seanfree/pen/xNvWag
