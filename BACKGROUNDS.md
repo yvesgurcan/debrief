@@ -3,8 +3,8 @@
 - Gravity Maze: https://codepen.io/borntofrappe/pen/mddEvEW
 - Block Blaster: https://codepen.io/mattyfours/pen/QWWLpmK
 - Walking Character (pure CSS): https://codepen.io/ivorjetski/pen/xxKBWBN
-- Anime Earth: https://codepen.io/CodeMeNatalie/pen/gOYQdVV
-- Pinball Sparkles: https://codepen.io/danzen/pen/dybQVoa
+- Anime Earth: https://codepen.io/CodeMeNatalie/pen/gOYQdVV | https://earth.yvesgurcan.com/
+- Pinball Sparkles: https://codepen.io/danzen/pen/dybQVoa | https://pinball.yvesgurcan.com
 - Koi Pond: https://codepen.io/unicar/pen/LwbRbo
 - Open Store Animation: https://codepen.io/marianab/pen/XPOQaR
 - Roadtrip Sunset: https://codepen.io/a-trost/pen/pXzbbq
